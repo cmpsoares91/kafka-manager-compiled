@@ -1,0 +1,6 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/cmpsoares/Downloads/kafka-manager-1.3.3.13/conf/routes,/home/cmpsoares/Downloads/kafka-manager-1.3.3.13/target/scala-2.11/classes/routes)[0m
+[0m[[0mdebug[0m] [0m	(/home/cmpsoares/Downloads/kafka-manager-1.3.3.13/conf/consumer.properties,/home/cmpsoares/Downloads/kafka-manager-1.3.3.13/target/scala-2.11/classes/consumer.properties)[0m
+[0m[[0mdebug[0m] [0m	(/home/cmpsoares/Downloads/kafka-manager-1.3.3.13/conf/logback.xml,/home/cmpsoares/Downloads/kafka-manager-1.3.3.13/target/scala-2.11/classes/logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/home/cmpsoares/Downloads/kafka-manager-1.3.3.13/conf/logger.xml,/home/cmpsoares/Downloads/kafka-manager-1.3.3.13/target/scala-2.11/classes/logger.xml)[0m
+[0m[[0mdebug[0m] [0m	(/home/cmpsoares/Downloads/kafka-manager-1.3.3.13/conf/application.conf,/home/cmpsoares/Downloads/kafka-manager-1.3.3.13/target/scala-2.11/classes/application.conf)[0m
